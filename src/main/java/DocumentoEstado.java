@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class DocumentoEstado {
+public interface DocumentoEstado {
+	String getNomeEstado();
 }
